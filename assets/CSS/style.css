@@ -2,6 +2,7 @@
 
 @import './header.css';
 @import './Buttons.css';
+@import './main.css';
 
 * {
   margin: 0;
@@ -9,6 +10,7 @@
   border: 0;
   font-size: 100%;
   font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 300;
   vertical-align: baseline;
   text-decoration: none;
 }
